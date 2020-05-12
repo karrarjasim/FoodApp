@@ -3,4 +3,4 @@
 Mobile UI app 
 # screenshots
 
-<img src='screenshots/screen1.png'/><img src='screenshots/screen2.png'/>
+<img src='screenshots/screen1.png' width=50% /><img src='screenshots/screen2.png' width=50% />
